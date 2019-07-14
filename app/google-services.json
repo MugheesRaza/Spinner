@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "916302215965",
+    "firebase_url": "https://spinner-a6021.firebaseio.com",
+    "project_id": "spinner-a6021",
+    "storage_bucket": "spinner-a6021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916302215965:android:5ff7f0be7d1a324a",
+        "android_client_info": {
+          "package_name": "com.example.mughees.spinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916302215965-rjucmsamub2h6oq4n1f9fkl6bphni25h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mughees.spinner",
+            "certificate_hash": "ccffebd0a9fc3c1dacf847bc86e9e8df61c27e68"
+          }
+        },
+        {
+          "client_id": "916302215965-j1ph32oq64s2kodsvctvkdgjfvkea0kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8VL1pEaE2gh_EfhxK8l73eCFrb5Al04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916302215965-j1ph32oq64s2kodsvctvkdgjfvkea0kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
